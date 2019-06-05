@@ -11,6 +11,7 @@ public class lab1main {
 		//System.out.println(object1.getPerimeter());
 		object1.flip(1,2);
 		System.out.println(object1.getWidth());
+		System.out.print("hi git clone");
 	}
 
 }
